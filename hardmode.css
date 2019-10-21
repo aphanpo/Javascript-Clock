@@ -1,0 +1,12 @@
+.container {
+    margin: auto;
+}
+
+#jsclock {
+    color: black;
+    font-size: 200px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
