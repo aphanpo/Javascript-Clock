@@ -11,3 +11,10 @@
     padding-top: 250px;
     padding-bottom: 250px;
 }
+
+#color {
+    color: goldenrod;
+    font-size: 20px;
+    outline: none;
+    background-color: white;
+}
